@@ -1,7 +1,6 @@
-<h1 align="center">Pasta PHP</h1>
-<p align="center">Mais detalhes sobre os projetos de cada pasta</p>
+<h1>O que há neste projeto:</h1>
 
-<h3>Pasta: Curso | Instrutor | Observações</h3>
+<h2>Tela para a navegação entre os exercícios de PHP</h2>
 <ul>
-  <li>Pasta 1: PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos | Leonardo Moura Leitao | O curso é focado no PHP 7, HTML, CSS, JavaScript, Banco de Dados, partindo dos fundamentos.</li>
-</ul>  
+  <li>O primeiro exercício</li>
+</ul>
