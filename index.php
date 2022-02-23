@@ -9,27 +9,40 @@
   <body>
     <header class="cabecalho">
       <h1>Curso PHP</h1>
-      <h2>√çndice dos exerc√≠cios</h2>
+      <h2>Õndice dos exercÌcios</h2>
     </header>
     
     <main class="principal">
       <div class="conteudo">
         <nav class="modulos">
+        
+        <div class="modulo vermelho">
+              <h3>2. Controle</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=controle&file=if_else.php">
+                    If Else
+                  </a>
+                </li>
+              </ul>
+         </div>
+        
           <div class="modulo verde">
-              <h3>M√≥dulo 01</h3>
+              <h3>1. B·sico</h3>
               <ul>
                 <li>
                   <a href="exercicio.php?dir=basico&file=olamundo">
-                    Ol√° Mundo
+                    Ol· Mundo
                   </a>
                 </li>
                 <li>
                   <a href="exercicio.php?dir=basico&file=olavariaveis">
-                    Ol√° Vari√°veis
+                    Ol· Vari·veis
                   </a>
                 </li>
               </ul>
           </div>
+  
         </nav>
       </div>
     </main>
